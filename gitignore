@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Reports and input data generated at runtime
+*_Report.csv
+audit_report.txt
+employees.csv
+passwords.txt
+
+# OS files
+.DS_Store
+Thumbs.db
